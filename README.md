@@ -1,5 +1,6 @@
 # Predicting-the-causes-of-wildfires
 ### Link to the dataset: https://www.kaggle.com/rtatman/188-million-us-wildfires
+### Link to Kaggle notebook: https://www.kaggle.com/onnirantanen/predicting-the-causes-of-wildfires-part-2 
 
 The original code files have the predictions with all the categories. Reducing them to four different categories could give better results.
 
